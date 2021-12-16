@@ -1,7 +1,7 @@
-<div align="center">
-  
+<div align="center">   
   ### Hi there 👋
 
+  [![krizh4's GitHub stats](https://github-readme-stats.vercel.app/api?username=krizh4)](https://github.com/krizh4)
 </div>
 <!--
 **krizh4/krizh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
